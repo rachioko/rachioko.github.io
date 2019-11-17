@@ -8,11 +8,11 @@ description: Data Analysis Blog by Amarachi Okoroafor
 url: https://rachioko.github.io
 baseurl: https://rachioko.github.io
 twitter_username: 
-default_img: images/banner.jpg
+default_img: 
 
 # Profile settings
 name: Amarachi Okoroafor
-profile_img: 
+profile_img: images/banner.jpg
 profile: 
 social:
   github: https://github.com/rachioko
