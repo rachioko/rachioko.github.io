@@ -5,10 +5,10 @@ google_analytics:
 
 title: Rachi, The Datasite
 description: Data Analysis Blog by Amarachi Okoroafor
-url: ""
-baseurl: ""
+url: https://rachioko.github.io
+baseurl: https://rachioko.github.io
 twitter_username: 
-default_img: /images/banner.jpg
+default_img: images/banner.jpg
 
 # Profile settings
 name: Amarachi Okoroafor
