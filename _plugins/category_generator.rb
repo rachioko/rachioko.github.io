@@ -13,7 +13,7 @@ module Jekyll
       self.data['title'] = category
     end
   end
-
+  
   class CategoryPageGenerator < Generator
     safe true
 
