@@ -12,7 +12,7 @@ default_img:
 
 # Profile settings
 name: Amarachi Okoroafor
-profile_img: images/banner.jpg
+profile_img: /images/banner.jpg
 profile: 
 social:
   github: https://github.com/rachioko
