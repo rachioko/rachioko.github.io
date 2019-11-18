@@ -16,8 +16,8 @@ layout: default
         <span>Posted in 
           {% for category in page.categories %}
             <a class="nav--white" href="{{ site.baseurl }}/category/{{ category | downcase | slugify }}">{{ category }}</a>{% if forloop.last == false %}, {% endif %}
-          {% endfor %}
-          {% include read-time.html content=page.content %}
+          {% endfor %} &middot; {% include read-time.html 
+          content=page.content %}
         </span>
       {% endif %}
       <span></span>
