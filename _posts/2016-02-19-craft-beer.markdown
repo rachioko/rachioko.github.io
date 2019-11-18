@@ -3,7 +3,7 @@ layout: post
 title: "Craft Beer"
 date: 2016-02-19
 categories:
-  - "Made by the Gods"
+  - Godly
 description:
 image: /images/post_craft_beer.jpg
 image-sm: /images/post_craft_beer.jpg
