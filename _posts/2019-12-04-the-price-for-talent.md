@@ -3,7 +3,7 @@ layout: post
 title: "The price for talent: player power or club ambition"
 date: 2019-12-04
 categories:
-  - Sports
+  - Sport
 description:
 image: /images/pic02.jpg
 image-sm: /images/pic02.jpg
