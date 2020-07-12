@@ -20,7 +20,7 @@ module Jekyll
     def generate(site)
       if site.layouts.key? 'papers_index'
         dir = site.config['papers_dir'] || 'papers'
-        site.papers.each_key do |papers|
+        site.categories.each_key do |papers|
           papers_dir = File.join(dir, Utils.slugify(papers))
           site.pages << PaperPage.new(site, site.source, papers_dir, papers)
         end
