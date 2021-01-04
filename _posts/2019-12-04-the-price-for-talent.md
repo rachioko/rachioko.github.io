@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/pic02.jpg
 navigation: True
-title: Organising your content with tags
+title: The Price for Talent
 date: 2019-12-04 08:00:00
 tags:
 class: post-template
