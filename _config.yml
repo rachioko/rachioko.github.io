@@ -74,8 +74,8 @@ repo: rachioko.github.io
 branch: master
 relative_source:
 destination: 
-production_url:  https://rachioko.github.io
-source_url:  https://github.com/rachioko/rachioko.github.io
+production_url:  https://rachioko.github.io/
+source_url:  https://github.com/rachioko/rachioko.github.io/
 
 exclude:
   - assets/css
