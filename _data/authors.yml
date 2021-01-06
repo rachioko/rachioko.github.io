@@ -1,15 +1,15 @@
 rachi:
   username: rachi
-  name: Amarachi Okoroafor
+  name: Rachi
   url_full: http://rachioko.github.io/
   url: rachioko.github.io
   bio: Trying to figure it out, thats it.. thats the bio 
-  picture: assets/images/ghost.png
+  picture: assets/images/rachi.jpg
   facebook: False
   twitter: False
   linkedin: False
   github: False
-  cover: assets/images/hannah-cover.jpg
+  cover: assets/images/815286.png
 hannah:
   username: hannah
   name: Hannah Wolfe
