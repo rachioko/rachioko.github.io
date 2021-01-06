@@ -8,7 +8,7 @@ date: 2019-12-04 08:00:00
 tags:
 class: post-template
 subclass: 'post'
-author: ghost
+author: rachi
 ---
 The price of football transfers shot rapidly back in 2016 when Neymar moved for a whooping $250 million for barcelona to PSG, in a move descriped only as impossible years before, so what changed.  
 
