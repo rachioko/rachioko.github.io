@@ -5,7 +5,7 @@ cover:  assets/images/space01.jpg
 navigation: True
 title: We can't be alone, can we?
 date: 2020-01-05 08:00:00
-tags: 
+tags: fables
 class: post-template
 subclass: 'post'
 author: rachi
