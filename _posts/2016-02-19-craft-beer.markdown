@@ -5,7 +5,7 @@ cover:  assets/images/post_craft_beer.jpg
 navigation: True
 title: Craft Beer
 date: 2016-02-19 08:00:00
-tags: 
+tags: [getting-started]
 class: post-template
 subclass: 'post'
 author: rachi
