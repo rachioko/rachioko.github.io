@@ -24,8 +24,8 @@ subscribers: True # you need to connect an external service for this to work,
 # by editing `_includes/subscribe-form.html`
 twitter:  # replace by your username
 facebook: # replace by your username
-linkedin:
-github:
+linkedin: rachiokoroafor
+github: rachioko
 
 # Disqus
 disqus: False
