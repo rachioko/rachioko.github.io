@@ -5,7 +5,7 @@ cover:  assets/images/pic02.jpg
 navigation: True
 title: The Price for Talent
 date: 2019-12-04 08:00:00
-tags:
+tags: fables
 class: post-template
 subclass: 'post'
 author: rachi
