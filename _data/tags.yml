@@ -1,6 +1,6 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
+papers:
+  name: papers
+  description: Summaries of some academic/ research papers.
   cover: assets/images/speeches.jpg
 fiction:
   name: fiction
