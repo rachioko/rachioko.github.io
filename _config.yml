@@ -11,7 +11,7 @@ baseurl: /
 # Website info
 title: Rachi - Data Detective
 description: Just Doing The Thing
-cover: assets/images/banner_cover.jpg
+cover: assets/images/banner.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
