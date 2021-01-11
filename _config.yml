@@ -12,7 +12,7 @@ baseurl: /
 title: Rachi - Data Detective
 description: Just Doing The Thing
 cover: assets/images/banner_cover.jpg
-logo: assets/images/blog-icon.png
+logo: assets/images/RachiLogo.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created
