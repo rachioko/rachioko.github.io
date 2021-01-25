@@ -5,7 +5,7 @@ cover: 'assets/images/fire-force-iris.jpg'
 navigation: True
 title: Fire Force
 date: 2019-11-14 10:18:00
-tags: fiction
+tags: reverie
 class: post-template
 subclass: 'post'
 author: rachi
