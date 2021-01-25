@@ -1,16 +1,16 @@
 papers:
   name: papers
-  description: Summaries of some academic/ research papers.
+  description: Simple Summaries of academic/ research papers.
   cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
-  description: False
+reverie:
+  name: reverie
+  description: My thoughts, musings. Welcome to my random firing neurons
   cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
+dataviz:
+  name: dataviz
+  description: Data visualizations along with very short stories the hopefully give insights.
   cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
-  description: False
+data-analysis:
+  name: data-analysis
+  description: Blog posts on analyzing data from across different topics.
   cover: False
