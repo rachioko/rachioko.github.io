@@ -8,7 +8,7 @@ reverie:
   cover: False
 dataviz:
   name: dataviz
-  description: Data visualizations along with very short stories the hopefully give insights.
+  description: Data visualizations that along with very short stories, hopefully giving meaningful insights.
   cover: assets/images/fables.jpg
 data-analysis:
   name: data-analysis
