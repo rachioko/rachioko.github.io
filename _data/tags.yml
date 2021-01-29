@@ -5,12 +5,12 @@ papers:
 reverie:
   name: reverie
   description: My thoughts, musings. Welcome to my random firing neurons
-  cover: False
+  cover: assests/images/reverie-matthew-henry.jpg
 dataviz:
   name: dataviz
   description: Data visualizations that come along with very short stories, hopefully giving meaningful insights.
-  cover: assets/images/fables.jpg
+  cover: assets/images/banner_cover.jpg
 data-analysis:
   name: data-analysis
   description: Blog posts on analyzing data from across different topics.
-  cover: False
+  cover: assets/images/ev-bigData.jpg
