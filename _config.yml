@@ -9,9 +9,9 @@ words_per_minute: 200
 baseurl: /
 
 # Website info
-title: Rachi - Data Detective
-description: Just Doing The Thing
-cover: #assets/images/banner_cover.jpg
+title: R.A.C.H.I.
+description: A Blog Thing
+cover: assets/images/rene-bohmer-Ye.jpg
 logo: #assets/images/rachi-logo.svg
 logo_dark: #assets/images/favicon.png
 favicon: assets/images/favicon.png
