@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  #assets/images/harpal-singh-eY.jpg
+cover:  assets/images/harpal-singh-eY.jpg
 navigation: True
 title: It's Time to Game
 date: 2021-01-20 10:00:00
