@@ -11,4 +11,4 @@ subclass: 'post'
 author: rachi
 ---
 
-Summary of paper by Prof. Kao and 
+This is a summary of paper by Dominic Kao, an assistant professor at Purdue University and J.J. De Simone, PhD. You can check it out here[http://people.csail.mit.edu/dkao/pdf/kao2019fdg3.pdf]. 
