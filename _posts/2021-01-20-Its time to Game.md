@@ -11,7 +11,7 @@ subclass: 'post'
 author: rachi
 ---
 
-This is a summary of a paper titled "Exploring How Preference and Perceived Performance Vary in Different Game Genres Across Time of Day" by Dominic Kao, an assistant professor at Purdue University and J.J. De Simone, PhD. 
+This is my summary of a paper titled "Exploring How Preference and Perceived Performance Vary in Different Game Genres Across Time of Day" by Dominic Kao, an assistant professor at Purdue University and J.J. De Simone, PhD. 
 
 Okay lets get into it, also you can check out the paper [here](http://people.csail.mit.edu/dkao/pdf/kao2019fdg3.pdf). 
 
